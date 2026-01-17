@@ -95,14 +95,6 @@ The dataset contains customer-related information such as:
 
 ---
 
-## 🚀 How to Run the Project
-1. Clone the repository
-2. Open the notebook in Google Colab or Jupyter Notebook
-3. Upload the dataset files
-4. Run the cells step-by-step
-
----
-
 ## 📚 Learning Outcomes
 - Practical experience with clustering algorithms
 - Improved data analysis and visualization skills
@@ -110,10 +102,4 @@ The dataset contains customer-related information such as:
 
 ---
 
-## 👩‍💻 Author
-**Sakshi Kapse**
 
----
-
-## ⭐ Acknowledgment
-This project is created for learning and academic purposes in data analytics.
